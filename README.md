@@ -1,0 +1,2 @@
+# newc
+Newbie C codes
